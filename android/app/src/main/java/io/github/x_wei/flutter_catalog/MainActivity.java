@@ -1,4 +1,4 @@
-package io.github.x_wei.flutter_catalog;
+package flutter_catalog;
 
 import android.os.Bundle;
 import io.flutter.embedding.android.FlutterFragmentActivity;
